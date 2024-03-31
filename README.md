@@ -1,6 +1,6 @@
 # CRUD de Funcionários
 
-Este é um projeto simples de CRUD (Create, Read, Update, Delete) de funcionários, desenvolvido com HTML, CSS e Javascript, com o objetivo de praticar e aprender conceitos de desenvolvimento web.
+Este é um projeto simples de CRUD (Create, Read, Update, Delete) de funcionários, desenvolvido com HTML, CSS e Javascript, com o objetivo de praticar os conceitos de desenvolvimento web.
 
 ## Funcionalidades
 
